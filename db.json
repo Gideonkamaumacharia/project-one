@@ -1,0 +1,38 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "title":"Treasure Island",
+            "author":"Robert Louis Stevenson",
+            "cover":"https://coverart.oclc.org/ImageWebSvc/oclc/+-+0256002_140.jpg?allowDefault=false&client=WorldcatOrgUI",
+            "publisher":"Scribner ,New York, 1981",
+            "summary":"While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads to a pirate fortune as well as great danger"
+
+
+        },
+        {
+            "id": 2,
+            "title":"The adventures of Tom Sawyer",
+            "author":"Mark Twain",
+            "cover":"https://coverart.oclc.org/ImageWebSvc/oclc/+-+04429400_140.jpg?allowDefault=false&client=WorldcatOrgUI",
+            "publisher":" Sterling, New York, 2004",
+            "summary":"The adventures of a mischievous young boy and his friends growing up in a Mississippi River town in the nineteenth century. Who could forget the pranks, the adventures, the sheer fun of Tom Sawyer? It's something every child should experience and every child will love. From Tom's sly trickery with the whitewashed fence, when he cleverly manipulates everyone so they happily do his work for him, to his and Becky Thatcher's calamities in Bat Cave, the enjoyment just never ends"
+        },
+        {
+            "id": 3,
+            "title":"Great expectations",
+            "author":"Charles Dicken",
+            "cover":"https://coverart.oclc.org/ImageWebSvc/oclc/+-+33885097_140.jpg?allowDefault=false&client=WorldcatOrgUI",
+            "publisher":"Alfred A. Knopf, New York, [1992]",
+            "summary":"Great Expectations is at once a superbly constructed novel of spellbinding mastery and a profound examination of moral values. Here, some of Dickens's most memorable characters come to play their part in a story whose title itself reflects the deep irony that shaped Dickens's searching reappraisal of the Victorian middle class"
+        },
+        {
+            "id": 4,
+            "title":"Pride and prejudice",
+            "author":"Jane Austen",
+            "cover":"https://coverart.oclc.org/ImageWebSvc/oclc/+-+34350578_140.jpg?allowDefault=false&client=WorldcatOrgUI",
+            "publisher":" Modern Library, New York, 1995",
+            "summary":"In early nineteenth-century England, a spirited young woman copes with the suit of a snobbish gentleman, as well as the romantic entanglements of her four sisters"
+        }
+    ]
+}
